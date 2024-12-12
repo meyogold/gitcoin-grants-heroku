@@ -1,0 +1,14 @@
+[
+	{
+		"code": 403,
+		"error": "You do not qualify for this stamp. Your Grantee stats are less than the required thresholds: 0 out of 10."
+	},
+	{
+		"code": 403,
+		"error": "You do not qualify for this stamp. Your Grantee stats are less than the required thresholds: 0 out of 100."
+	},
+	{
+		"code": 403,
+		"error": "You do not qualify for this stamp. Your Grantee stats are less than the required thresholds: 0 out of 1000."
+	}
+]
